@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+input, select {
+    padding: 8px;
+    margin-top: 5px;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+button {
+    padding: 8px 20px;
+    cursor: pointer;
+}
